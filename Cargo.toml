@@ -3,6 +3,7 @@ name = "suil-sys"
 version = "0.1.0"
 authors = ["gndl <gndl@users.noreply.github.com>"]
 description = "Raw Bindings to the Suil library generated via rust-bindgen"
+edition = "2018"
 license = "MIT"
 keywords = ["audio", "suil", "lv2"]
 readme = "README.md"
