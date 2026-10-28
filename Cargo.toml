@@ -1,6 +1,6 @@
 [package]
 name = "suil-sys"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["gndl <gndl@users.noreply.github.com>"]
 description = "Raw Bindings to the Suil library generated via rust-bindgen"
 edition = "2018"
@@ -14,4 +14,4 @@ repository = "https://github.com/gndl/suil-sys.git"
 version = "0.70"
 
 [dependencies]
-lv2_raw = "0.2"
+lv2_raw = "0.3"
